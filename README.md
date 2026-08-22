@@ -378,7 +378,7 @@ I'm currently focusing on understanding how AI can be combined with full-stack d
 # 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/VanshSUTHAR">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
