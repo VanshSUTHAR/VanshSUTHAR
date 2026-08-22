@@ -1,412 +1,177 @@
-# 👋 Hi, I'm Vansh Suthar
+# 👋 Hey, I'm Vansh Suthar
 
-### 💻 MERN Stack Developer | Full-Stack Developer | AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer;AI+Enthusiast;Building+%2B+Learning+Every+Day+%F0%9F%9A%80" />
 
-I'm a passionate **Full-Stack / MERN Stack Developer** who enjoys building modern, scalable, and real-world applications.
-
-I work mainly with **React.js, Node.js, Express.js, MongoDB, Supabase, REST APIs**, and modern web technologies. I'm also exploring **Artificial Intelligence, Generative AI, LLMs, RAG, and AI Agents**.
-
----
-
-## 👨‍💻 About Me
-
-* 💻 MERN Stack Developer
-* 🚀 Full-Stack Web Application Developer
-* 🤖 Exploring Artificial Intelligence & Generative AI
-* 🧠 Interested in LLMs, RAG & AI Agents
-* 🔌 Experienced in REST API development and third-party API integrations
-* ☁️ Experience with cloud deployment and application hosting
-* 🗄️ Experience with SQL and NoSQL databases
-* 🎓 Interested in pursuing higher studies in **Artificial Intelligence / Computer Science**
-* 🌱 Always learning and building new projects
+<p align="center">
+  <a href="https://vanshsuthar022.netlify.app/">🌐 Portfolio</a>
+  •
+  <a href="https://github.com/YOUR_USERNAME">🐙 GitHub</a>
+  •
+  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a>
+</p>
 
 ---
 
-# 💼 Work Experience
+## 🧑‍💻 About Me
 
-### Full Stack / MERN Stack Developer Intern
+> **I build things, break things, learn things — and build them better. 🚀**
+
+I'm a **MERN Stack Developer** passionate about creating real-world applications and exploring the world of **AI & Generative AI**.
+
+* 💻 Full-Stack Web Development
+* 🤖 AI & Generative AI
+* 🔥 MERN Stack
+* ☁️ Cloud Deployment
+* 🧠 Currently exploring **LLMs, RAG & AI Agents**
+
+---
+
+## 💼 Experience
+
+### 🚀 MERN Stack Developer Intern
 
 **June 2025 – Present**
 
-During my internship, I have worked on multiple full-stack applications, API integrations, automation systems, and AI-powered features.
+Building and maintaining full-stack applications using:
 
-#### 🔹 Frontend Development
-
-* Developed responsive web applications using **React.js**.
-* Built reusable and scalable UI components.
-* Worked with **Tailwind CSS** for modern and responsive interfaces.
-* Worked with **JavaScript, TypeScript, Vite, and Next.js**.
-* Improved UI/UX, layouts, forms, dashboards, and application workflows.
-
-#### 🔹 Backend Development
-
-* Developed backend applications using **Node.js and Express.js**.
-* Designed and developed **REST APIs**.
-* Created APIs for:
-
-  * Products
-  * Categories
-  * Orders
-  * Cart
-  * Wishlist
-  * Inventory
-  * Media
-  * Users
-  * Vendors
-  * Reports
-  * Customers
-* Implemented authentication and authorization using **JWT**.
-* Integrated third-party APIs and external services.
-* Worked with API validation, error handling, security, and debugging.
-
-#### 🔹 Database Development
-
-Worked with:
-
-* MongoDB
-* Mongoose
-* MySQL
-* PostgreSQL
-* Supabase Database
-
-Designed database structures and implemented CRUD operations and relationships between application data.
-
-#### 🔹 E-Commerce & API Integrations
-
-Worked on integrations with external e-commerce platforms and services, including:
-
-* **Shopify**
-* **Printful**
-* Odoo
-* Payment and communication APIs
-
-Developed APIs for products, variants, orders, inventory, shipping rates, stores, reports, and other e-commerce operations.
-
-#### 🔹 AI Development
-
-Explored and integrated AI technologies into applications using:
-
-* OpenAI API
-* Google Gemini
-* LangChain
-* LLM-based applications
-* RAG concepts
-* AI Agents
-
-Worked on AI-powered features such as resume generation, content generation, and intelligent application workflows.
-
-#### 🔹 PDF & Document Automation
-
-* Implemented PDF generation using **PDF-lib**.
-* Built multi-step merchant application workflows.
-* Automated document processing.
-* Implemented email-based document delivery.
-* Created workflows for generating and forwarding PDF/ZIP documents.
-
-#### 🔹 Deployment & DevOps
-
-Worked with:
-
-* Git
-* GitHub
-* GitHub Desktop
-* Vercel
-* Netlify
-* Render
-
-Deployed frontend and backend applications and worked with environment variables, production configurations, and deployment debugging.
-
-#### 🔹 API Testing & Development Tools
-
-* Postman
-* Git/GitHub
-* VS Code
-* MongoDB Compass
-* Supabase
-* REST APIs
-
----
-
-# 🛠️ Technical Skills
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
-
-**HTML • CSS • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS • Vite**
-
----
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Node.js • Express.js • REST APIs • JWT • Authentication • API Integration**
-
----
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
-**MongoDB • Mongoose • MySQL • PostgreSQL • Supabase**
-
----
-
-## AI & Machine Learning
-
-**AI APIs • OpenAI • Gemini • LangChain • LLMs • RAG • AI Agents • Generative AI**
-
----
-
-## E-Commerce & Integrations
-
-**Shopify • Printful • Odoo • REST APIs • Payment APIs • SMTP • Third-Party APIs**
-
----
-
-## Tools & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,render,vscode" />
-</p>
-
-**Git • GitHub • Postman • VS Code • Vercel • Netlify • Render**
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Resume Maker
-
-An AI-powered resume platform that helps users create professional resumes and improve their resumes using AI.
-
-### Features
-
-* Create resume from scratch
-* AI-powered resume generation
-* Resume customization
-* Resume upload and processing
-* AI-based resume improvements
-* PDF resume generation
-
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB` `AI APIs`
-
----
-
-## 💰 Expense Manager
-
-A full-stack financial management application for tracking personal income and expenses.
-
-### Features
-
-* Income and expense tracking
-* Bank account management
-* Credit card bill management
-* Loan EMI tracking
-* Financial dashboard
-* PDF/Excel export
-
-**Tech Stack:**
 `React.js` `Node.js` `Express.js` `MongoDB`
 
----
-
-## 🏪 Merchant Application Form Wizard
-
-A multi-step merchant application platform designed to collect merchant information and automate document processing.
-
-### Features
-
-* Multi-step application form
-* 8+ application sections
-* PDF generation
-* Email automation
-* Document processing
-* ZIP file handling
-* Automated document forwarding
-
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `PDF-lib` `SMTP`
+Also working with **REST APIs, Shopify, Printful, Supabase, Odoo and AI integrations**.
 
 ---
 
-## 📦 Printful E-Commerce Integration
+## ⚡ My Tech Universe
 
-A backend system integrating Printful APIs with an e-commerce application.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,supabase,git,github,postman,vercel,netlify&perline=9" />
+</p>
 
-### Features
+### 🤖 AI
 
-* Product APIs
-* Product variants
-* Categories
-* Orders
-* Inventory
-* Shipping rates
-* Store management
-* Warehouse information
-* Reports
-* Webhook integration
-
-**Tech Stack:**
-`Node.js` `Express.js` `MongoDB` `Printful API` `REST APIs`
+`OpenAI` • `Gemini` • `LangChain` • `LLMs` • `RAG` • `AI Agents`
 
 ---
 
-## 🏢 Asset Management System
+# 🚀 Things I've Built
 
-A web-based asset management application for managing company assets and accessories.
+<table>
+<tr>
+<td width="50%">
 
-### Features
+### 🤖 AI Resume Maker
 
-* User authentication
-* Dashboard
-* Asset management
-* Asset assignment
-* Accessories management
-* Database management
-* Light/Dark mode
-* AI integration
+An AI-powered platform for creating and improving professional resumes.
 
-**Tech Stack:**
-`React.js` `Supabase` `REST APIs` `AI`
+**React • Node • MongoDB • AI**
 
----
+</td>
 
-## 🎓 StudySphere
+<td width="50%">
 
-A student-focused platform designed to help manage learning activities and student progress.
+### 🏪 Merchant Application
 
-### Features
+Multi-step merchant application with automated PDF generation and email workflows.
 
-* Student management
-* Progress tracking
-* Authentication
-* Database integration
-* AI-powered functionality
+**React • Node • PDF-lib • SMTP**
 
-**Tech Stack:**
-`React.js` `Supabase` `AI` `REST APIs`
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## 🛒 Online Book Store
+### 📦 E-Commerce Platform
 
-A full-stack e-commerce application for browsing and purchasing books.
+Printful-powered system handling products, orders, inventory and shipping.
 
-### Features
+**Node • Express • MongoDB • Printful**
 
-* User authentication
-* Product browsing
-* Shopping cart
-* Wishlist
-* Orders
-* Product management
-* REST APIs
+</td>
 
-**Tech Stack:**
-`React.js` `Node.js` `Express.js` `MongoDB`
+<td width="50%">
+
+### 🎓 StudySphere
+
+Student platform focused on learning, progress tracking and AI-powered features.
+
+**React • Supabase • AI**
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning
+# 🧠 Currently Exploring
 
 ```text
-Artificial Intelligence
-        ↓
-Generative AI
-        ↓
-Large Language Models
-        ↓
-RAG
-        ↓
-AI Agents
-        ↓
-AI-Powered Applications
+        FULL STACK
+             │
+             ▼
+        ┌──────────┐
+        │ MERN     │
+        └────┬─────┘
+             │
+             ▼
+       ┌─────────────┐
+       │     AI      │
+       └──────┬──────┘
+              │
+        ┌─────┴─────┐
+        ▼           ▼
+       LLMs        RAG
+        │           │
+        └─────┬─────┘
+              ▼
+         AI AGENTS 🤖
 ```
 
-I'm currently focusing on understanding how AI can be combined with full-stack development to build useful real-world applications.
-
 ---
 
-# 🎯 My Goals
-
-* 🚀 Become a strong Full-Stack Developer
-* 🤖 Build production-ready AI applications
-* 🧠 Deepen my knowledge of AI and Machine Learning
-* 🔗 Build applications combining MERN + AI
-* 🌍 Pursue higher studies in AI / Computer Science
-* 💡 Build and contribute to real-world software projects
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 🔥 What I Believe
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+> **Don't just learn technology. Build something with it.**
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+Every project is an opportunity to learn something new.
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let's Connect
 
-<p>
-<a href="https://github.com/VanshSUTHAR">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+
+<a href="https://vanshsuthar022.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://vanshsuthar022.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
-# ⚡ Developer Quote
-
-> **"Build. Learn. Improve. Repeat."**
-
----
-
-## 👀 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and check out my projects.
-
-If you find something interesting, feel free to connect with me!
-
----
-
 <p align="center">
-  <b>💻 MERN Stack Developer | 🤖 AI Enthusiast | 🚀 Continuous Learner</b>
+
+### ⭐ If you like my work, consider starring a repository!
+
+**Thanks for stopping by! 🚀**
+
 </p>
