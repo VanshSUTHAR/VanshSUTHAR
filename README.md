@@ -28,7 +28,7 @@ I'm a **MERN Stack Developer** passionate about creating real-world applications
 
 ## 💼 Experience
 
-### 🚀 MERN Stack Developer Intern
+### 🚀 Jr.FullStcak Developer
 
 **June 2025 – Present**
 
