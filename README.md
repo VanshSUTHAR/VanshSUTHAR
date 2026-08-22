@@ -1,7 +1,7 @@
 # Hey, I'm Vansh Suthar
 
 <p align="center">
- <b>MERN Stack Developer • AI Enthusiast • Builder • Problem Solver</b> 
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=FULL+STACK+DEVELOPER" />
 </p>
 
 <p align="center">
