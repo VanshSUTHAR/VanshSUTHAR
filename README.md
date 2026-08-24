@@ -1,155 +1,302 @@
 <div align="center">
 
-# Vansh Suthar
+👋 VANSH SUTHAR
 
-**Full Stack Developer** &nbsp;·&nbsp; MERN &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Product Builder
+Full Stack Developer · MERN · AI/ML · Product Builder
 
-<sub>Ahmedabad, India</sub>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end-to-end;MERN+Stack+%7C+Generative+AI+%7C+APIs;Turning+ideas+into+working+products" alt="Typing animation" />
+</p>
 
-I build full-stack products end-to-end — APIs, data layer, and the interface people actually touch —
-and I'm currently shipping LLM-powered conversational and voice AI features in production.
+<p>
+  <a href="https://vanshsuthar022.netlify.app/">🌐 Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/vanshsuthar">💼 LinkedIn</a>
+  ·
+  <a href="mailto:sutharvansh022@gmail.com">✉️ Email</a>
+  ·
+  <a href="https://github.com/VanshSUTHAR">💻 GitHub</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vanshsuthar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://vanshsuthar022.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:sutharvansh022@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/VanshSUTHAR)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VanshSUTHAR&style=flat-square&color=36BCF7" alt="Profile views" />
+</p>
 
 </div>
 
----
+🧑‍💻 WHO I AM
 
-## 01 · About
+I'm Vansh Suthar, a Full Stack Developer focused on building practical web products from the database to the UI.
 
-- Computer Science & Engineering undergrad (LJ University, 2022 – 2026), full-stack developer by trade.
-- Comfortable across the MERN stack — React on the front, Node.js/Express and MongoDB or MySQL underneath.
-- Backend-heavy engineering background: REST API design, auth, multi-tenant systems, and ORMs (Sequelize, Mongoose) built for real users, not tutorials.
-- Use Python for machine learning, NLP, and data-driven applications alongside the web stack.
-- Currently working inside Generative AI and Conversational/Voice AI — building LLM-backed product features, not just experimenting with them.
-- Interested in the point where GenAI stops being a demo and starts being a dependable part of a product.
+🎓 Computer Science & Engineering — LJ University, 2022–2026
 
----
+⚡ Strong focus on the MERN stack
 
-## 02 · Engineering Stack
+🔧 Backend-oriented experience with REST APIs, authentication, integrations, and databases
+
+🤖 Exploring and building with Generative AI, NLP, ML, RAG, and AI agents
+
+🧩 Interested in turning AI experiments into reliable product features
+
+🚀 I enjoy owning a feature end-to-end: idea → API → database → interface → deployment
+
+My goal: build software that is useful, scalable, understandable, and actually works in the real world.
+
+🛠️ TECH STACK
+
+Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=E76F00" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+</p>
+
+Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+  <img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge" />
+</p>
+
+Databases & Data
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/NoSQL-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+</p>
+
+AI / ML
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+</p>
+
+Tools & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitLab-0d1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+
+🚀 FEATURED PROJECTS
 
 <table>
-<tr><td><b>Languages</b></td><td>
+<tr>
+<th>Project</th>
+<th>What I Built</th>
+<th>Stack</th>
+</tr>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=E76F00)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square)
+<tr>
+<td><b>📚 Online Book Store</b></td>
+<td>Full-stack e-commerce platform with JWT authentication, Stripe checkout, order tracking, seller onboarding, and role-based Admin/Partner dashboards.</td>
+<td><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Stripe</code> <code>JWT</code></td>
+</tr>
 
-</td></tr>
-<tr><td><b>Frontend</b></td><td>
+<tr>
+<td><b>🤖 AI Resume Maker</b></td>
+<td>AI-powered resume builder for creating structured and tailored resume content with authentication and persistent cloud storage.</td>
+<td><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>OpenAI / GenAI</code></td>
+</tr>
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+<tr>
+<td><b>💰 Personal Expense Manager</b></td>
+<td>Personal finance platform for income and expense tracking, bank balances, credit card bills, EMI reminders, and PDF/Excel exports.</td>
+<td><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code></td>
+</tr>
 
-</td></tr>
-<tr><td><b>Backend</b></td><td>
+<tr>
+<td><b>✨ Lunatics Interactive Experience</b></td>
+<td>Modern agency experience with responsive layouts, polished interactions, animation, and service-focused presentation.</td>
+<td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></td>
+</tr>
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=flat-square)
+<tr>
+<td><b>🌐 Personal Portfolio</b></td>
+<td>Interactive developer portfolio with theme switching, typewriter effects, project case studies, and email integration.</td>
+<td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code></td>
+</tr>
 
-</td></tr>
-<tr><td><b>Database</b></td><td>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![NoSQL](https://img.shields.io/badge/NoSQL-0d1117?style=flat-square)
-
-
-</td></tr>
-<tr><td><b>AI / Data</b></td><td>
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-0d1117?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
-
-</td></tr>
-<tr><td><b>Tools / Cloud</b></td><td>
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![GitLab](https://img.shields.io/badge/GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=FC6D26)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
-
-</td></tr>
+<tr>
+<td><b>🎨 Friend / Client Portfolio</b></td>
+<td>High-aesthetic portfolio with multiple custom themes, a dynamic theme engine, interactive timelines, and custom visualizers.</td>
+<td><code>Next.js</code> <code>React</code> <code>TypeScript</code></td>
+</tr>
 </table>
 
----
+🔗 Project Links
 
-## 03 · Featured Work
+Project
 
-### AI & Full-Stack Projects
+Live
 
-| Project | Problem → Solution | Stack |
-|---|---|---|
+Source
 
+📚 Online Book Store
 
-<sub>Source and write-ups are on GitHub — browse <a href="https://github.com/VanshSUTHAR?tab=repositories">Vansh's repositories</a> for details.</sub>
+Open
 
-### Production Systems — Internship Engagements
+GitHub
 
-| Project | Tech Stack | Highlights & Description | Links |
-| :--- | :--- | :--- | :--- |
-| **📚 Online Book Store** | `React` `Node.js` `Express` `MongoDB` `Stripe` `JWT` | Full-stack e-commerce marketplace with JWT authentication, Stripe checkout, order tracking, seller onboarding, and role-based Admin/Partner dashboards. | [🌐 Live Demo](https://online-book-store-three-tan.vercel.app/)<br>[💻 Code](https://github.com/VanshSUTHAR/Online-Book-Store) |
-| **🤖 AI Resume Maker** | `React` `Node.js` `OpenAI/Gemini` `MongoDB` `Express` | Intelligent resume builder that generates professional, tailored resume bullet points and structures using AI, with user authentication and persistent cloud storage. | [🌐 Live Demo](https://airesumemakerfrontend.vercel.app/)<br>[💻 Code](https://github.com/VanshSUTHAR/Ai-ResumeMaker) |
-| **💰 Personal Expense Manager** | `React` `Node.js` `Express` `MongoDB` `Tailwind` | Financial tracker featuring income/expense analytics, live bank account balance syncing, credit card bill payments, EMI due date reminders, and PDF/Excel export. | [🌐 Live Demo](https://expense-mangager.vercel.app)<br>[💻 Code](https://github.com/VanshSUTHAR/Expense-Mangager) |
-| **✨ Lunatics Interactive Experience** | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` | Modern agency web platform showcasing UI/UX, software development, and consulting services with high-performance animations and responsive layouts. | [🌐 Live Demo](https://lunatics-ten.vercel.app/)<br>[💻 Code](https://github.com/VanshSUTHAR/Lunatics-Interactive-Web-Experience) |
-| **🌐 Personal Portfolio** | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` | Sleek developer portfolio featuring dynamic theme toggles, typewriter effects, interactive project case studies, and email contact integration. | [🌐 Live Demo](https://vanshsuthar022.netlify.app/)<br>[💻 Code](https://github.com/VanshSUTHAR/Personal-PortFolio) |
-| **🎨 Friend / Client Portfolio** | `Next.js` `React` `TypeScript` `Data Viz` | High-aesthetic developer portfolio with 11 custom themes, a dynamic theme engine, scroll-linked interactive timelines, and custom data visualizers. | [🌐 Live Demo](https://heeya-portfolio-ten.vercel.app)<br>[💻 Code](https://github.com/VanshSUTHAR/friend_portfolio) |
-### AI & Full-Stack Projects
----
-| Project | Problem → Solution | Stack |
-|---|---|---|
-| [**Online Book Store**](https://github.com/VanshSUTHAR/Online-Book-Store) <br><sub>[Live Demo](https://online-book-store-three-tan.vercel.app/)</sub> | Fragmented book trading platforms lack seamless onboarding and secure payments. Built an end-to-end e-commerce marketplace featuring Stripe checkout, JWT-secured auth, seller onboarding workflows, and role-based Admin/Partner analytics dashboards. | `React` `Node.js` `Express` `MongoDB` `Stripe` `JWT` `Tailwind CSS` |
-| [**AI Resume Maker**](https://github.com/VanshSUTHAR/Ai-ResumeMaker) <br><sub>[Live Demo](https://airesumemakerfrontend.vercel.app/)</sub> | Job seekers struggle to tailor resume bullet points for ATS scanners. Developed an AI-driven platform that dynamically crafts structured, industry-tailored resume sections with user authentication and persistent cloud storage. | `React` `Node.js` `Express` `MongoDB` `OpenAI / GenAI` `Tailwind CSS` |
+🤖 AI Resume Maker
 
+Open
 
+GitHub
 
+💰 Expense Manager
 
-## 04 · Currently Building
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VanshSUTHAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vansh's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSUTHAR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-- **Scan AI** — An intelligent multimodal document and image analysis tool leveraging computer vision and LLMs to automate text extraction, structured data parsing, and contextual insights from scanned documents in real time.
-- **Autonomous AI Agents & RAG Workflows** — Designing and evaluating production-grade retrieval-augmented generation pipelines and agentic automation for product workflows.
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSUTHAR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
----
+Open
 
-## 05 ·Experiance
- 🚀 Jr. Full Stack Developer
-**June 2025 – Present**
-- Building and maintaining full-stack web applications using **React, Node.js, Express & MongoDB**.
-- Integrating third-party APIs and platforms including **Shopify, Printful, Supabase, and Odoo**.
-- Designing and implementing AI-driven features and modern RESTful APIs.
+GitHub
 
-## 06· Philosophy
+✨ Lunatics
 
-> I care less about which framework is trending and more about whether what I ship actually holds up —
-> end to end, from the API contract to the person using it on the other side.
+Open
 
----
+GitHub
+
+🌐 Personal Portfolio
+
+Open
+
+GitHub
+
+🎨 Friend Portfolio
+
+Open
+
+GitHub
+
+💼 EXPERIENCE
+
+🚀 Jr. Full Stack Developer
+
+June 2025 – Present
+
+Building and maintaining full-stack applications using React, Node.js, Express, and MongoDB.
+
+Designing and integrating RESTful APIs for real-world product workflows.
+
+Working with third-party platforms including Shopify, Printful, Supabase, and Odoo.
+
+Building AI-driven functionality and integrating modern AI services into web products.
+
+Working across frontend, backend, database, integrations, and deployment rather than focusing on a single layer.
+
+🧠 CURRENTLY BUILDING
+
+🔍 Scan AI
+
+A multimodal document and image analysis concept using computer vision and LLMs to automate text extraction, structured data parsing, and contextual insights.
+
+🧩 Autonomous AI Agents & RAG
+
+Exploring production-oriented RAG pipelines, AI agents, retrieval workflows, tool use, and agentic automation for practical product workflows.
+
+Direction: less “AI demo”, more AI feature that survives real users.
+
+📊 GITHUB ACTIVITY
 
 <div align="center">
 
-### Have an idea worth building? Let's talk.
+<img src="https://github-readme-stats.vercel.app/api?username=VanshSUTHAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSUTHAR&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vanshsuthar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://vanshsuthar022.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:sutharvansh022@gmail.com)
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSUTHAR&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+⚙️ HOW I LIKE TO BUILD
+
+IDEA
+  ↓
+Understand the problem
+  ↓
+Design the data + API contract
+  ↓
+Build the backend
+  ↓
+Connect the interface
+  ↓
+Integrate services / AI
+  ↓
+Test
+  ↓
+Deploy
+  ↓
+Improve from real usage
+
+I care about the complete path from API contract → database → application logic → interface → user experience.
+
+🧭 MY ENGINEERING PHILOSOPHY
+
+Frameworks change. Good engineering doesn't.
+
+I care less about which technology is trending and more about whether what I ship is:
+
+reliable
+
+understandable
+
+maintainable
+
+useful
+
+scalable enough for the problem
+
+pleasant for the person using it
+
+🤝 LET'S BUILD SOMETHING
+
+<div align="center">
+
+Have an idea worth building?
+
+Let's turn it into something real. 🚀
+
+<br />
+
+<a href="https://vanshsuthar022.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-36BCF7?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/vanshsuthar">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-36BCF7?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="mailto:sutharvansh022@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-36BCF7?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://github.com/VanshSUTHAR">
+  <img src="https://img.shields.io/badge/💻_GitHub-36BCF7?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br /><br />
+
+⭐ If you find something useful here, consider starring a repository.
 
 </div>
