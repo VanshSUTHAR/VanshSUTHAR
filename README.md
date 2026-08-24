@@ -1,253 +1,398 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Vansh%20Suthar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML%20%7C%20Product%20Builder&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+full-stack+products+end-to-end;Idea+%E2%86%92+API+%E2%86%92+Database+%E2%86%92+Interface+%E2%86%92+Users;MERN+Stack+%7C+Generative+AI+%7C+Autonomous+Agents;Turning+rough+ideas+into+working+software" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2332,100:0D1117&height=180&section=header" />
 
 <br/>
 
-<a href="https://vanshsuthar022.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7" /></a>
-<a href="https://www.linkedin.com/in/vanshsuthar"><img src="https://img.shields.io/badge/💼_LinkedIn-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7" /></a>
-<a href="mailto:sutharvansh022@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7" /></a>
-<a href="https://github.com/VanshSUTHAR"><img src="https://img.shields.io/badge/💻_GitHub-0d1117?style=for-the-badge&labelColor=0d1117&color=36BCF7" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&letterSpacing=2&lines=VANSH+SUTHAR" alt="Vansh Suthar" />
 
-<img src="https://komarev.com/ghpvc/?username=VanshSUTHAR&style=for-the-badge&color=36BCF7&labelColor=0d1117" alt="Profile views" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=3000&color=36BCF7&center=true&vCenter=true&width=500&height=30&letterSpacing=4&lines=FULL+STACK+DEVELOPER" alt="Full Stack Developer" />
 
 <br/>
 
-## 🧑‍💻 About Me
+**I BUILD PRODUCTS. I DESIGN SYSTEMS. I SHIP SOFTWARE.**
 
-```javascript
-const vansh = {
-  role: "Full Stack Developer",
-  education: "B.E. Computer Science & Engineering, LJ University (2022 – 2026)",
-  stack: ["React", "Node.js", "Express", "MongoDB"],
-  currentlyExploring: ["Generative AI", "RAG pipelines", "Autonomous AI Agents"],
-  approach: "own a feature end-to-end — idea → API → database → interface → deployment",
-  philosophy: "frameworks change, good engineering doesn't"
-};
-```
-
-- 🎓 Computer Science & Engineering — **LJ University**, 2022–2026
-- ⚡ Strong focus on the **MERN stack**, backend-first mindset
-- 🔧 REST APIs, authentication, third-party integrations, database design
-- 🤖 Building with **Generative AI, NLP, ML, RAG & AI agents**
-- 🚀 I enjoy owning a feature end-to-end — not just one layer of the stack
-
-> My goal: build software that is useful, scalable, understandable, and actually works in the real world.
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=E76F00" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF" />
-<img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
-
-</td>
-<td valign="top" width="50%">
-
-**Backend & APIs**
-
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
-<img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge" />
-
-**Databases, AI & Cloud**
-
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/Generative_AI-0d1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Online Book Store
-Full-stack e-commerce platform with JWT auth, Stripe checkout, order tracking, seller onboarding, and role-based Admin/Partner dashboards.
-
-`React` `Node.js` `Express` `MongoDB` `Stripe` `JWT`
-
-[🔗 Live](#) · [💻 Source](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Resume Maker
-AI-powered resume builder generating structured, tailored resume content, with auth and persistent cloud storage.
-
-`React` `Node.js` `MongoDB` `OpenAI / GenAI`
-
-[🔗 Live](#) · [💻 Source](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Personal Expense Manager
-Personal finance platform for income/expense tracking, bank balances, credit card bills, EMI reminders, and PDF/Excel export.
-
-`React` `Node.js` `MongoDB` `Tailwind`
-
-[🔗 Live](#) · [💻 Source](#)
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ Lunatics Interactive Experience
-Modern agency site with responsive layouts, polished motion design, and service-focused presentation.
-
-`Next.js` `TypeScript` `Tailwind` `Framer Motion`
-
-[🔗 Live](#) · [💻 Source](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-Interactive developer portfolio with theme switching, typewriter effects, and project case studies.
-
-`Next.js` `TypeScript` `Tailwind`
-
-[🔗 Live](#) · [💻 Source](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Client Portfolio
-High-aesthetic portfolio with a dynamic theme engine, interactive timelines, and custom visualizers.
-
-`Next.js` `React` `TypeScript`
-
-[🔗 Live](#) · [💻 Source](#)
-
-</td>
-</tr>
-</table>
-
-> Replace the `#` links above with your actual live/GitHub URLs.
-
-<br/>
-
-## 💼 Experience
-
-**Jr. Full Stack Developer** · *June 2025 – Present*
-
-- Building and maintaining full-stack applications using React, Node.js, Express, and MongoDB
-- Designing and integrating RESTful APIs for real-world product workflows
-- Working with third-party platforms including **Shopify, Printful, Supabase, and Odoo**
-- Building AI-driven functionality and integrating modern AI services into web products
-- Working across frontend, backend, database, integrations, and deployment — not just one layer
-
-<br/>
-
-## 🧠 Currently Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔍 Scan AI**
-A multimodal document and image analysis concept using computer vision and LLMs to automate text extraction, structured data parsing, and contextual insights.
-
-</td>
-<td width="50%" valign="top">
-
-**🧩 Autonomous AI Agents & RAG**
-Production-oriented RAG pipelines, AI agents, retrieval workflows, and tool use for practical product workflows — less "AI demo," more AI feature that survives real users.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⚙️ How I Like to Build
-
-```
-Idea → Understand the problem → Design the data + API contract
-     → Build the backend → Connect the interface
-     → Integrate services / AI → Test → Deploy → Improve from real usage
-```
-
-I care about the complete path — from API contract to database to application logic to interface to user experience.
-
-<br/>
-
-## 🧭 Engineering Philosophy
-
-> Frameworks change. Good engineering doesn't.
-
-I care less about which technology is trending and more about whether what I ship is **reliable, understandable, maintainable, useful, scalable enough for the problem, and pleasant for the person using it.**
-
-<br/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VanshSUTHAR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSUTHAR&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSUTHAR&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<br/>
-
-## 🤝 Let's Build Something
-
-<div align="center">
-
-**Have an idea worth building? Let's turn it into something real. 🚀**
-
-<br/>
-
-<a href="https://vanshsuthar022.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-36BCF7?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://www.linkedin.com/in/vanshsuthar"><img src="https://img.shields.io/badge/💼_LinkedIn-36BCF7?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="mailto:sutharvansh022@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-36BCF7?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://github.com/VanshSUTHAR"><img src="https://img.shields.io/badge/💻_GitHub-36BCF7?style=for-the-badge&labelColor=0d1117" /></a>
+<sub>MERN&nbsp;&nbsp;•&nbsp;&nbsp;AI&nbsp;&nbsp;•&nbsp;&nbsp;APIs&nbsp;&nbsp;•&nbsp;&nbsp;CLOUD&nbsp;&nbsp;•&nbsp;&nbsp;PRODUCT ENGINEERING</sub>
 
 <br/><br/>
 
-⭐ If you find something useful here, consider starring a repository.
+<a href="https://vanshsuthar022.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+<a href="https://github.com/VanshSUTHAR"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+<a href="https://www.linkedin.com/in/vanshsuthar"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+<a href="mailto:sutharvansh022@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+
+<br/><br/>
+
+<sub>◉ AVAILABLE FOR OPPORTUNITIES</sub>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<sub>Ahmedabad, India</sub>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<sub>MERN Stack</sub>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<sub>AI / RAG / Agents</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=2&width=800" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=100&section=footer" width="100%"/>
+<br/>
+
+## `01 /` WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**FULL-STACK PRODUCTS**
+
+`Frontend → Backend → Database → Deployment`
+
+End-to-end ownership from interface to infrastructure.
+
+</td>
+<td width="50%" valign="top">
+
+**AI-POWERED APPLICATIONS**
+
+`LLMs → RAG → Agents → Automation`
+
+Building intelligent systems on top of modern AI tooling.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**BACKEND SYSTEMS**
+
+`REST APIs → Auth → Integrations → Data`
+
+Reliable services that scale with real usage.
+
+</td>
+<td width="50%" valign="top">
+
+**PRODUCT EXPERIENCES**
+
+`Interfaces → UX → Performance → Iteration`
+
+Interfaces designed to be used, not just shipped.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
+
+```text
+VANSH / DEVELOPER PROFILE
+────────────────────────────
+ROLE        Full Stack Developer
+EDUCATION   B.E. Computer Science & Engineering
+            LJ University · 2022–2026
+FOCUS       MERN · AI · APIs · Product Engineering
+BASED IN    Ahmedabad, India
+```
+
+</td></tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&width=800" />
+
+<br/>
+
+## `02 /` TECH ECOSYSTEM
+
+<table>
+<tr>
+<td valign="top" width="20%">
+
+**CORE**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=36BCF7)
+![TypeScript](https://img.shields.io/badge/-TypeScript-161B22?style=flat-square&logo=typescript&logoColor=36BCF7)
+![Python](https://img.shields.io/badge/-Python-161B22?style=flat-square&logo=python&logoColor=36BCF7)
+![Java](https://img.shields.io/badge/-Java-161B22?style=flat-square&logo=openjdk&logoColor=36BCF7)
+![SQL](https://img.shields.io/badge/-SQL-161B22?style=flat-square&logo=postgresql&logoColor=36BCF7)
+
+</td>
+<td valign="top" width="20%">
+
+**FRONTEND**
+
+![React](https://img.shields.io/badge/-React-161B22?style=flat-square&logo=react&logoColor=36BCF7)
+![Next.js](https://img.shields.io/badge/-Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=36BCF7)
+![Tailwind](https://img.shields.io/badge/-Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=36BCF7)
+
+</td>
+<td valign="top" width="20%">
+
+**BACKEND**
+
+![Node.js](https://img.shields.io/badge/-Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=36BCF7)
+![Express](https://img.shields.io/badge/-Express-161B22?style=flat-square&logo=express&logoColor=36BCF7)
+![REST](https://img.shields.io/badge/-REST_APIs-161B22?style=flat-square&logo=fastapi&logoColor=36BCF7)
+
+</td>
+<td valign="top" width="20%">
+
+**DATA**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=36BCF7)
+![MySQL](https://img.shields.io/badge/-MySQL-161B22?style=flat-square&logo=mysql&logoColor=36BCF7)
+![Supabase](https://img.shields.io/badge/-Supabase-161B22?style=flat-square&logo=supabase&logoColor=36BCF7)
+
+</td>
+<td valign="top" width="20%">
+
+**AI**
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-161B22?style=flat-square&logo=openai&logoColor=36BCF7)
+![Gemini](https://img.shields.io/badge/-Gemini-161B22?style=flat-square&logo=googlegemini&logoColor=36BCF7)
+![LangChain](https://img.shields.io/badge/-LangChain-161B22?style=flat-square&logo=langchain&logoColor=36BCF7)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>RAG&nbsp;&nbsp;·&nbsp;&nbsp;AI AGENTS&nbsp;&nbsp;·&nbsp;&nbsp;AWS&nbsp;&nbsp;·&nbsp;&nbsp;VERCEL&nbsp;&nbsp;·&nbsp;&nbsp;NETLIFY&nbsp;&nbsp;·&nbsp;&nbsp;RENDER&nbsp;&nbsp;·&nbsp;&nbsp;GITHUB&nbsp;&nbsp;·&nbsp;&nbsp;POSTMAN&nbsp;&nbsp;·&nbsp;&nbsp;POWER BI</sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=2&width=800" />
+
+<br/>
+
+## `03 /` EXPERIENCE
+
+```text
+2025 ─┬──────────────────────────────────────────
+      │
+      ├── JUN
+      │
+      │    JR. FULL STACK DEVELOPER
+      │    ───────────────────────────────
+      │    Building production applications
+      │    APIs · Integrations · AI · Deployment
+      │
+2026 ─┴── PRESENT
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&width=800" />
+
+<br/>
+
+## `04 /` FEATURED WORK
+
+<table>
+<tr><td>
+
+**01 / AI RESUME MAKER** — hero project
+
+AI-powered resume creation platform.
+
+`React` `Node.js` `MongoDB` `AI`
+
+Generate&nbsp;&nbsp;·&nbsp;&nbsp;Tailor&nbsp;&nbsp;·&nbsp;&nbsp;Store&nbsp;&nbsp;·&nbsp;&nbsp;Manage
+
+[`LIVE DEMO`](#) &nbsp;&nbsp; [`SOURCE`](#)
+
+</td></tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**02 / EXPENSE MANAGER**
+
+Personal finance management platform.
+
+`React` `Node.js` `MongoDB`
+
+Income · Expenses · Banks · EMIs · Exports
+
+[`LIVE DEMO`](#) &nbsp;&nbsp; [`SOURCE`](#)
+
+</td>
+<td width="50%" valign="top">
+
+**03 / ONLINE BOOK STORE**
+
+Full-stack commerce experience.
+
+`React` `Node.js` `Express` `MongoDB` `Stripe`
+
+[`LIVE DEMO`](#) &nbsp;&nbsp; [`SOURCE`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**04 / STUDYSPHERE**
+
+Learning-focused product platform.
+
+`React` `Node.js` `MongoDB`
+
+[`LIVE DEMO`](#) &nbsp;&nbsp; [`SOURCE`](#)
+
+</td>
+<td width="50%" valign="top">
+
+**05 / ASSET MANAGEMENT SYSTEM**
+
+Internal tooling for tracking and managing assets.
+
+`React` `Node.js` `SQL`
+
+[`LIVE DEMO`](#) &nbsp;&nbsp; [`SOURCE`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**06 / MERCHANT APPLICATION FORM WIZARD**
+
+Multi-step form workflow system.
+
+`React` `Node.js`
+
+[`LIVE DEMO`](#) &nbsp;&nbsp; [`SOURCE`](#)
+
+</td>
+<td width="50%" valign="top">
+
+**07 / LUNATICS — INTERACTIVE EXPERIENCE**
+
+Interactive front-end experience.
+
+`React` `JavaScript`
+
+[`LIVE DEMO`](#) &nbsp;&nbsp; [`SOURCE`](#)
+
+</td>
+</tr>
+</table>
+
+<sub>Additional work: Personal Portfolio · Client Portfolio · Printful / E-commerce Integrations</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=2&width=800" />
+
+<br/>
+
+## `05 /` CURRENT LAB
+
+```text
+● ACTIVE
+
+  SCAN AI
+  Multimodal document + image analysis
+
+
+◐ EXPLORING
+
+  RAG SYSTEMS
+  Retrieval pipelines and knowledge systems
+
+
+○ EXPERIMENTING
+
+  AUTONOMOUS AGENTS
+  Tool use · workflows · reasoning
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&width=800" />
+
+<br/>
+
+## `06 /` HOW I BUILD
+
+<div align="center">
+
+`01 PROBLEM`  →  `02 ARCHITECTURE`  →  `03 API`  →  `04 DATA`
+→  `05 INTERFACE`  →  `06 AI / INTEGRATIONS`  →  `07 DEPLOY`  →  `08 ITERATE`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> ### "Frameworks change.
+> ### Good engineering doesn't."
+>
+> — Vansh Suthar
+
+I build for people, not just for the stack.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=36BCF7&height=2&width=800" />
+
+<br/>
+
+## `07 /` GITHUB SIGNAL
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=VanshSUTHAR&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=8B949E&hide_title=false" />
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSUTHAR&layout=compact&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=8B949E" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSUTHAR&hide_border=true&background=0D1117&stroke=36BCF7&ring=8A2BE2&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=8B949E&dates=8B949E" />
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VanshSUTHAR&bg_color=0D1117&color=36BCF7&line=8A2BE2&point=FFFFFF&hide_border=true" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&width=800" />
+
+<br/>
+
+<div align="center">
+
+## `08 /` LET'S BUILD
+
+Open to new opportunities and interesting problems.
+
+<a href="https://vanshsuthar022.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+<a href="https://github.com/VanshSUTHAR"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+<a href="https://www.linkedin.com/in/vanshsuthar"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+<a href="mailto:sutharvansh022@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=36BCF7&labelColor=0D1117&color=161B22" /></a>
+
+<br/><br/>
+
+<sub>SYSTEM · BUILD · DEPLOY</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2332,100:0D1117&height=100&section=footer" />
