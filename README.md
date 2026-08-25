@@ -28,35 +28,31 @@
 
 </div>
 
-👋 About Me
+## 👋 About Me
 
 I'm Vansh Suthar, a Full Stack Developer from Ahmedabad, India.
 
 I build complete web products across:
 
-Frontend → Backend → Database → APIs → AI → Deployment
+**Frontend → Backend → Database → APIs → AI → Deployment**
 
-🎓 Computer Science & Engineering — LJ University
+- 🎓 Computer Science & Engineering — LJ University
+- ⚡ MERN Stack Developer
+- 🤖 Interested in Generative AI, RAG & AI Agents
+- 🔌 Experience with real-world API integrations
+- 🚀 Focused on building useful products
 
-⚡ MERN Stack Developer
+## 🛠️ Tech Stack
 
-🤖 Interested in Generative AI, RAG & AI Agents
-
-🔌 Experience with real-world API integrations
-
-🚀 Focused on building useful products
-
-🛠️ Tech Stack
-
-💻 Languages & Frontend
+**💻 Languages & Frontend**
 
 <img src="https://skillicons.dev/icons?i=js,python,java,react,nextjs,html,css,tailwind,vite&perline=9"/>
 
-⚙️ Backend & Database
+**⚙️ Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,django,dotnet&perline=8"/>
 
-🤖 AI & Tools
+**🤖 AI & Tools**
 
 <img src="https://img.shields.io/badge/Generative_AI-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
@@ -65,131 +61,112 @@ Frontend → Backend → Database → APIs → AI → Deployment
 <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge"/>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,postman&perline=5"/>
 
-🔌 Integrations
+**🔌 Integrations**
 
-Shopify Printful Supabase Odoo Stripe
+Shopify · Printful · Supabase · Odoo · Stripe
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-📚 Online Book Store
+### 📚 Online Book Store
 
 Full-stack e-commerce platform with:
+- JWT authentication
+- Stripe payments
+- Seller onboarding
+- Order management
+- Role-based dashboards
 
-JWT authentication
+**Stack:** React · Node.js · Express · MongoDB
 
-Stripe payments
-
-Seller onboarding
-
-Order management
-
-Role-based dashboards
-
-Stack:
-React Node.js Express MongoDB
-
-🌐 Live · 💻 Code
+<a href="#"><img src="https://img.shields.io/badge/🌐_LIVE-36BCF7?style=flat-square&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/💻_CODE-FFFFFF?style=flat-square&labelColor=0D1117&logo=github&logoColor=white"/></a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-🤖 AI Resume Maker
+### ☕ Aroma Lounge — Cafe & Workspace
 
-AI-powered resume builder for creating tailored professional content.
+Responsive website for a premium artisanal cafe, featuring specialty coffees, fresh pastries, and a cozy glassmorphic UI.
 
-AI generation
+- Menu & specialty showcase
+- Glassmorphic design system
+- Fully responsive layout
 
-Resume customization
+**Stack:** React · Next.js · Tailwind
 
-Authentication
-
-Persistent storage
-
-Stack:
-React Node.js MongoDB GenAI
-
-🌐 Live · 💻 Code
+<a href="https://cafe-rwd.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE-36BCF7?style=flat-square&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/💻_CODE-FFFFFF?style=flat-square&labelColor=0D1117&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-💰 Expense Manager
+### 💰 Expense Manager
 
 Personal finance platform for:
+- Income & expenses
+- Bank accounts
+- Credit cards
+- EMI tracking
+- PDF / Excel reports
 
-Income & expenses
+**Stack:** React · Node.js · MongoDB
 
-Bank accounts
-
-Credit cards
-
-EMI tracking
-
-PDF / Excel reports
-
-Stack:
-React Node.js MongoDB
-
-🌐 Live · 💻 Code
+<a href="#"><img src="https://img.shields.io/badge/🌐_LIVE-36BCF7?style=flat-square&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/💻_CODE-FFFFFF?style=flat-square&labelColor=0D1117&logo=github&logoColor=white"/></a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-✨ Lunatics
+### 🍽️ The Masala Secrets
 
-Modern interactive agency experience with animated and responsive UI.
+Fine-dine multicuisine restaurant website — 100% pure vegetarian North Indian, Chinese, Italian & Continental dining experience.
 
-Stack:
-Next.js TypeScript Tailwind Framer Motion
+- Menu, gallery & reservations
+- Signature dish showcase
+- Location & booking integration
 
-🌐 Live · 💻 Code
+**Stack:** Next.js · Tailwind
+
+<a href="https://resturent-website-six.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE-36BCF7?style=flat-square&labelColor=0D1117"/></a>
+<a href="#"><img src="https://img.shields.io/badge/💻_CODE-FFFFFF?style=flat-square&labelColor=0D1117&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
-💼 Experience
+## 💼 Experience
 
-🚀 Jr. Full Stack Developer
+**🚀 Jr. Full Stack Developer**
+*June 2025 – Present*
 
-June 2025 – Present
+- Building applications with React, Node.js, Express & MongoDB
+- Designing REST APIs
+- Integrating Shopify, Printful, Supabase & Odoo
+- Developing AI-powered features
+- Working across frontend, backend and deployment
 
-Building applications with React, Node.js, Express & MongoDB
+## 🤖 Currently Building
 
-Designing REST APIs
-
-Integrating Shopify, Printful, Supabase & Odoo
-
-Developing AI-powered features
-
-Working across frontend, backend and deployment
-
-🤖 Currently Building
-
-🔍 Scan AI
-
+**🔍 Scan AI**
 Multimodal document and image analysis using Computer Vision + LLMs.
 
-Document → Vision → LLM → Structured Data → Insights
+`Document → Vision → LLM → Structured Data → Insights`
 
-🧩 AI Agents & RAG
+**🧩 AI Agents & RAG**
+Exploring: RAG · AI Agents · Tool Use · Agentic Workflows
 
-Exploring:
+`Goal → Plan → Retrieve → Act → Observe → Improve`
 
-RAG · AI Agents · Tool Use · Agentic Workflows
-
-Goal → Plan → Retrieve → Act → Observe → Improve
-
-📊 GitHub
+## 📊 GitHub
 
 <div align="center">
 
@@ -203,17 +180,17 @@ Goal → Plan → Retrieve → Act → Observe → Improve
 
 </div>
 
-🧠 Philosophy
+## 🧠 Philosophy
 
 <div align="center">
 
-"Don't just write code. Build things people actually use."
+*"Don't just write code. Build things people actually use."*
 
-Solve → Build → Ship → Learn → Improve
+**Solve → Build → Ship → Learn → Improve**
 
 </div>
 
-📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -229,7 +206,7 @@ Solve → Build → Ship → Learn → Improve
 
 <br/><br/>
 
-Have an idea? Let's build it. 🚀
+**Have an idea? Let's build it. 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer" width="100%"/>
 
