@@ -1,5 +1,3 @@
-# Vansh Suthar
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=180&section=header&text=VANSH%20SUTHAR&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descSize=15&descAlignY=65" width="100%" />
