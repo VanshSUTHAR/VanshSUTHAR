@@ -1,127 +1,198 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:7C3AED&height=180&section=header&text=VANSH%20SUTHAR&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20in%20Progress&descSize=15&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:36BCF7,100:8A2BE2&height=220&section=header&text=VANSH%20SUTHAR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20PRODUCT%20BUILDER&descAlignY=62&descSize=18" width="100%" />
 
-### Full Stack Developer | MERN Stack | AI & Automation
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Web+Developer;Building+AI-Powered+Applications;MERN+Stack+%7C+Backend+%7C+Generative+AI;Turning+Ideas+Into+Products" alt="Typing animation" />
 
-Building modern web applications, scalable backend systems, and AI-powered solutions.
+<br/>
 
-[Portfolio](https://vanshsuthar022.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/vanshsuthar) · [Email](mailto:sutharvansh022@gmail.com)
+<a href="https://vanshsuthar022.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-36BCF7?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="https://github.com/VanshSUTHAR">
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vanshsuthar">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=VanshSUTHAR&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a Full Stack Developer from Ahmedabad, India, focused on building practical software products with modern web technologies and AI.
+Hi, I'm **Vansh Suthar**, a Full Stack Developer from Ahmedabad, India, interested in building scalable web applications, intelligent software, and useful digital products.
 
-- Develop full-stack applications using the MERN stack.
-- Design REST APIs, backend services, and database architectures.
-- Explore RAG, LLMs, and Agentic AI systems.
-- Integrate third-party APIs, payment systems, and external platforms.
-- Build, deploy, and maintain production-oriented applications.
+I enjoy working across the complete development lifecycle, from designing user interfaces to building APIs, integrating databases, and deploying applications.
 
-## Tech Stack
+- 🎓 Computer Science & Engineering — LJ University
+- 💻 Full Stack Development with the MERN stack
+- ⚙️ Backend development and REST API integration
+- 🤖 Exploring Generative AI, RAG, LLMs, and AI Agents
+- 🔗 Integrating third-party platforms and services
+- 🚀 Focused on clean code, practical solutions, and continuous learning
 
-**Frontend**
+## 🛠️ Technical Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### 💻 Languages & Frontend
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+### ⚙️ Backend & Databases
 
-**AI & Tools**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase,django,dotnet&perline=8" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 🤖 AI & Machine Learning
 
-- **AI:** Generative AI, RAG, LLMs, AI Agents, Vector Databases
-- **Integrations:** Shopify, Printful, Odoo, Stripe
-- **Deployment:** Vercel, Netlify
+<img src="https://img.shields.io/badge/Generative%20AI-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Integration-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge" />
 
-## Featured Projects
+### 🔧 Developer Tools & Platforms
 
-### 1. Online Book Store
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,postman,vscode&perline=6" />
 
-A full-stack e-commerce application designed for browsing books and managing online purchases.
+**Integrations:** Shopify · Printful · Supabase · Odoo · Stripe
 
-- User authentication and authorization
-- Product and order management
-- Online shopping experience
-- Responsive user interface
+**Deployment:** Vercel · Netlify
 
-**Tech:** React.js · Node.js · Express.js · MongoDB
+## 💼 Professional Experience
 
-[Live Demo →](https://online-book-store-three-tan.vercel.app/)
-
-### 2. Aroma Lounge — Cafe & Workspace
-
-A modern website concept for a cafe and workspace, featuring an elegant interface and responsive layouts.
-
-- Specialty coffee and menu presentation
-- Modern visual design
-- Responsive layouts for different devices
-
-**Tech:** React.js · Next.js · Tailwind CSS
-
-[Live Demo →](https://cafe-rwd.vercel.app/)
-
-## Professional Experience
-
-**Junior Full Stack Developer**
+### Jr. Full Stack Developer
 
 *June 2025 – Present*
 
-- Develop and maintain full-stack web applications.
-- Build and integrate REST APIs.
-- Work with databases and third-party services.
-- Implement frontend features and backend functionality.
-- Explore AI integrations and automation workflows.
+- Develop full-stack web applications using modern technologies.
+- Build and maintain REST APIs and backend functionality.
+- Work with databases, authentication, and application data.
+- Integrate third-party services and external APIs.
+- Contribute to frontend, backend, and deployment workflows.
+- Explore AI-powered features for practical software applications.
 
-## Currently Exploring
+## 🚀 Featured Projects
 
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI and tool calling
-- Local LLMs and vector databases
-- Document intelligence and AI workflows
-- Scalable backend architecture
+### 📚 Online Book Store
 
-## GitHub Activity
+A full-stack e-commerce platform designed to support online book shopping and store management.
+
+**Key features**
+- User authentication and authorization
+- Book catalog and product management
+- Online payment integration
+- Order management
+- Role-based dashboards
+
+**Technology stack:** React.js · Node.js · Express.js · MongoDB · Stripe
+
+<a href="https://online-book-store-three-tan.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-36BCF7?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+### ☕ Aroma Lounge — Cafe & Workspace
+
+A responsive website for a premium cafe and workspace, with a modern interface and an emphasis on presenting specialty coffee, pastries, and the cafe experience.
+
+**Key features**
+- Responsive website design
+- Cafe menu and specialty showcase
+- Modern glassmorphic visual elements
+- User-friendly navigation
+
+**Technology stack:** React.js · Next.js · Tailwind CSS
+
+<a href="https://cafe-rwd.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-36BCF7?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+## 🤖 Currently Exploring
+
+### Generative AI & LLMs
+Learning how large language models can be integrated into practical applications.
+
+### Retrieval-Augmented Generation (RAG)
+Exploring ways to combine document retrieval, vector search, and LLMs to build knowledge-based systems.
+
+### AI Agents
+Exploring tool calling, task planning, retrieval, and multi-step AI workflows.
+
+### Multimodal Document Analysis
+Working toward systems that process documents and images to extract structured information and useful insights.
+
+## 📈 Development Approach
+
+I focus on building software through a practical development workflow:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VanshSUTHAR&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="160" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSUTHAR&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Most used programming languages" />
+**Understand → Design → Develop → Test → Deploy → Improve**
 
 </div>
 
----
+- **Problem solving:** Understand requirements before implementation.
+- **Clean code:** Build maintainable and reusable components.
+- **API integration:** Connect applications with external services.
+- **Continuous learning:** Explore technologies that solve real problems.
 
-## Connect With Me
+## 📊 GitHub Statistics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vanshsuthar022.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsuthar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanshSUTHAR)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutharvansh022@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=VanshSUTHAR&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-**Build. Learn. Improve. Repeat.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSUTHAR&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSUTHAR&theme=tokyonight&hide_border=true" width="75%" />
+
+</div>
+
+## 🎯 Goals
+
+- Build more production-ready full-stack applications.
+- Improve backend architecture and database design skills.
+- Develop useful AI-powered applications.
+- Explore RAG pipelines, vector databases, and agentic workflows.
+- Contribute to meaningful software projects and keep learning.
+
+## 🧠 My Philosophy
+
+<div align="center">
+
+*“Don't just write code. Build things people actually use.”*
+
+**Solve → Build → Ship → Learn → Improve 🚀**
+
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://vanshsuthar022.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-36BCF7?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="https://github.com/VanshSUTHAR">
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vanshsuthar">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="mailto:sutharvansh022@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Have an idea? Let's build it. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer" width="100%" />
 
 </div>
